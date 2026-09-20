@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on development.<br>👯 I’m looking to collaborate on challenging projects.<br>🤝 I’m seeking help with solutions.<br>🌱 I’m currently learning software development.</br>
+💻 Software Developer with experience in web development and process automation.<br>
+🚀 Experienced with JavaScript, Python, PHP, React, Power Automate, and Power BI.<br>
+🔧 I enjoy building solutions, automating processes, solving technical problems, and improving existing applications.<br>
+🌱 Currently expanding my knowledge in software development and modern technologies.<br>
+🤝 Open to collaborating on challenging projects and learning from other developers.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-lima-713203229/)
@@ -27,6 +31,12 @@ Linguagens</br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscolima-pro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscolima-pro&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscolima-pro&layout=compact&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
