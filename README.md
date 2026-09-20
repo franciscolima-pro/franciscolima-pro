@@ -34,9 +34,11 @@ Linguagens</br>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscolima-pro&show_icons=true&theme=dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciscolima-pro&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscolima-pro&layout=compact&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franciscolima-pro&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franciscolima-pro&theme=github_dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
